@@ -1,7 +1,7 @@
 # Sentiment Analysis and Feature Extraction on Phone Product Reviews
 
-All submitted notebook files include codes to download and read in the data. 
-It might take a few minutes to download.
+All notebook files include code to download and read in the data,
+which might take several minutes to download.
 
 myLSTM.ipynb is recommended to run on Google Colab. 
 

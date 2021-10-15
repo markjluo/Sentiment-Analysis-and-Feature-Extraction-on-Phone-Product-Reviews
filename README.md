@@ -10,4 +10,4 @@ for variable "specific_brand". More specific instruction is included in the note
 
 baseline.ipynb and EDA.ipynb can be run directly without any modification.
 
-For more details on this project, Please see our paper: https://github.com/markjluo/Sentiment-Analysis-and-Feature-Extraction-on-Phone-Product-Reviews/blob/master/paper.pdf
+For more details on this project, please check our paper: https://github.com/markjluo/Sentiment-Analysis-and-Feature-Extraction-on-Phone-Product-Reviews/blob/master/paper.pdf
